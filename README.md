@@ -1,5 +1,5 @@
-- 👋 Hi, I’m dzikri rabbani, Under Graduate Informatics Engineering
-- 👀 I’m interested in Front-end Developer, QA, Backend, Figma, Full Stack Web Dev, & UI UX
+- 👋 Hi, I’m dzikri rabbani, Undergraduate Informatics Engineering
+- 👀 I’m interested in Fullstack Web Dev and other about the tech
 - 🌱 I’m currently learning Go-Lang, Software Quality Assurance, Javascript, React JS, & Etc (Still Learning and Keep Learning >_<)
 
 
