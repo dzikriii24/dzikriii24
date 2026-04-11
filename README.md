@@ -34,7 +34,7 @@
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzikriii24&repo=dzikriii24&theme=tokyonight&show_owner=true" width="300px"/>
+      <img src="[https://github-readme-stats.vercel.app/api/pin/?username=dzikriii24&repo=dzikriii24&theme=tokyonight&show_owner=true"](https://i.pinimg.com/736x/df/c1/45/dfc145a3fd71edeb1fa7c77e98b46449.jpg) width="300px"/>
     </td>
     <td style="padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
       <p align="left">
