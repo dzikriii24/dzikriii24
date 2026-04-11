@@ -27,67 +27,52 @@
 
 <br/>
 
-## 🧑‍💻 ABOUT ME
+<div align="center">
 
-```python
-class DzikriRabbani:
-    def __init__(self):
-        self.name = "Dzikri Rabbani"
-        self.location = "Bandung, Indonesia 🇮🇩"
-        self.education = "Informatics Engineering @ UIN Bandung"
-        self.role = "Fullstack Developer & AI Engineer"
-        self.experience = {
-            "current": ["Saffix.id", "Unicamp", "1s Labs"],
-            "past": ["Tanduria", "Yuk-Mari", "Autism Assistant", "Yareunsnap"]
-        }
-        self.skills = ["PHP", "JavaScript", "TypeScript", "Python", "Go", "Java", "React", "Laravel", "Node.js", "YOLOv8", "Mistral AI"]
-        self.motto = "Code. Learn. Build. Repeat. 🔁"
-    
-    def daily_routine(self):
-        return {
-            "🌅 Morning": "☕ Coffee + Code",
-            "🌞 Afternoon": "💻 Build & Debug",
-            "🌙 Evening": "📚 Learn New Tech",
-            "⭐ Night": "🚀 Side Projects"
-        }
-    
-    def current_focus(self):
-        return ["Building SIMRS Systems", "Mobile Dev with Maps API", "AI Computer Vision"]
+## 🌟 ABOUT ME
 
-dzikri = DzikriRabbani()
-print(dzikri.motto) # "Code. Learn. Build. Repeat. 🔁"
-```
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=dzikriii24&repo=dzikriii24&theme=tokyonight&show_owner=true" width="300px"/>
+    </td>
+    <td style="padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+      <p align="left">
+        <b>👋 Hello! I'm Dzikri Rabbani</b> — A passionate tech explorer from <b>Bandung, Indonesia 🇮🇩</b>. Currently diving deep into <b>Informatics Engineering</b> at UIN Bandung and crafting the future as a <b>Fullstack Developer & AI Engineer</b>.
+      </p>
+      <p align="left">
+        🚀 <b>Currently Building:</b> SIMRS Systems, Mobile Apps with Maps API, and AI Computer Vision models.
+      </p>
+      <p align="left">
+        ⭐ <b>Core Motto:</b> <i>"adalahpokonya"</i>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Current_Focus-SIMRS_Systems-00D9FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current_Focus-AI_Computer_Vision-AA00FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current_Focus-Mobile_Dev-FF7139?style=for-the-badge&logoColor=white" />
+</div>
+
+</div>
 
 ---
 
 ## 🛠️ TECH STACK
 
-### 💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,javascript,typescript,python,java,go,dart,html,css" />
-</div>
 
-### 🚀 Frameworks & Libraries
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,laravel,nodejs,express,spring,tailwind,bootstrap,jquery" />
-</div>
+| | |
+|:---:|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=php,javascript,typescript,python,java,go,dart" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,jquery,html,css" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,spring" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,supabase,redis,firebase" /> |
+| **AI / Machine Learning** | <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=python&logoColor=black" /> <img src="https://img.shields.io/badge/Mistral_AI-FF6B6B?style=flat-square&logo=ai&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> |
+| **Tools & Cloud** | <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,linux,vscode,vercel,netlify" /> |
 
-### 🗄️ Databases & Backend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,supabase,redis,firebase" />
-</div>
-
-### 🤖 AI & Computer Vision
-<div align="center">
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mistral_AI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</div>
-
-### 🔧 Tools & Platforms
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,linux,vscode,vercel,netlify" />
 </div>
 
 ---
@@ -111,7 +96,7 @@ print(dzikri.motto) # "Code. Learn. Build. Repeat. 🔁"
 
 ---
 
-## 📊 GITHUB STATS
+## 📈 PERFORMANCE & STATS
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dzikriii24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&include_all_commits=true&count_private=true" />
@@ -132,21 +117,27 @@ print(dzikri.motto) # "Code. Learn. Build. Repeat. 🔁"
 
 ---
 
+<div align="center">
+  
 ## ⏰ CODING TIME (WAKATIME)
 
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🐍 CONTRIBUTION SNAKE
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzikriii24/dzikriii24/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzikriii24/dzikriii24/output/github-contribution-grid-snake.svg">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dzikriii24/dzikriii24/output/github-contribution-grid-snake.svg">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzikriii24/dzikriii24/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzikriii24/dzikriii24/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dzikriii24/dzikriii24/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
